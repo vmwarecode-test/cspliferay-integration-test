@@ -1,1 +1,0 @@
-# cspliferay-integration-test
